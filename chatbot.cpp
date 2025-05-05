@@ -265,11 +265,10 @@ int main() {
 
 
 /**
-Summary Table:
 Data Structure Used on this program
-map	Organizing categories, brands, and top picks
-set	Storing unique categories and favorites
-vector	Managing list of models per brand
-stack	Model view history (LIFO)
-queue	Recently viewed models (FIFO)
+map	= Organizing categories, brands, and top picks
+set	= Storing unique categories and favorites
+vector	= Managing list of models per brand
+stack	= Model view history (LIFO)
+queue	= Recently viewed models (FIFO)
 */
